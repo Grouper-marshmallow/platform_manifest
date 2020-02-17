@@ -379,7 +379,7 @@
   <!--  <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" groups="pdk-fs" /> -->
   <project path="packages/apps/CarrierConfig" name="platform/packages/apps/CarrierConfig" groups="pdk-fs" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" groups="pdk-fs" />
-  <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" remote="ads" revision="ads-7.1.0" groups="pdk-cw-fs,pdk-fs" />
+  <project path="packages/apps/CertInstaller" name="packages_apps_CertInstaller" remote="ads" revision="ads-7.1.0" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="ads" revision="ads-7.1.0" groups="pdk-fs" />
   <project path="packages/apps/ContactsCommon" name="platform/packages/apps/ContactsCommon" groups="pdk-fs"/>
   <project path="packages/apps/DeskClock" name="platform/packages/apps/DeskClock" groups="pdk-fs" />
